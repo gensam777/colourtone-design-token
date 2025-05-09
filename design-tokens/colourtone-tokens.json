@@ -1506,7 +1506,7 @@
         "type": "color"
       },
       "5": {
-        "value": "{color.Brand a red ( sample ).500}",
+        "value": "{color.brand-a-red.500}",
         "type": "color"
       }
     }
