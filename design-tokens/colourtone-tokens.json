@@ -1,5 +1,5 @@
 {
-  "Primitive/Base": {
+  "Primitive": {
     "color": {
       "grey": {
         "50": {
@@ -977,7 +977,7 @@
       }
     }
   },
-  "Primitive - Layout & breakpoint/Base": {
+  "Primitive - Layout & breakpoint": {
     "grid": {
       "cols": {
         "1": {
@@ -1401,7 +1401,7 @@
       }
     }
   },
-  "Primitive - UI Component/Base": {
+  "Primitive - UI Component": {
     "container": {
       "spacing": {
         "4": {
@@ -1499,7 +1499,7 @@
       }
     }
   },
-  "Alias - Base Colour/Base": {
+  "Alias - Base Colour": {
     "primary": {
       "1": {
         "value": "#ffffff",
@@ -5229,10 +5229,10 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Primitive/Base",
-      "Primitive - Layout & breakpoint/Base",
-      "Primitive - UI Component/Base",
-      "Alias - Base Colour/Base",
+      "Primitive",
+      "Primitive - Layout & breakpoint",
+      "Primitive - UI Component",
+      "Alias - Base Colour",
       "Alias - Viewport/Mobile",
       "Alias - Viewport/Tablet",
       "Alias - Viewport/Desktop",
