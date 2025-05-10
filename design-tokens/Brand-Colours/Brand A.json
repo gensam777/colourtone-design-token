@@ -1,0 +1,14 @@
+{
+  "colour": {
+    "500": {
+      "value": "{color.primary.500}",
+      "type": "color"
+    }
+  },
+  "colour-dark": {
+    "500": {
+      "value": "{color.secondary.500}",
+      "type": "color"
+    }
+  }
+}

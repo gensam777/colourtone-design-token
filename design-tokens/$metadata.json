@@ -1,0 +1,21 @@
+{
+  "tokenSetOrder": [
+    "Primitive",
+    "Primitive-Layout-breakpoint",
+    "Primitive-UI-Component/Base",
+    "Alias-Base Colour/Base",
+    "Alias-Viewport/Mobile",
+    "Alias-Viewport/Tablet",
+    "Alias-Viewport/Desktop",
+    "Alias-Viewport/Large Desktop",
+    "Brand-Colours/Brand A",
+    "Brand-Colours/Brand B",
+    "Themes-Colours/Light Mode",
+    "Themes-Colours/Dark Mode",
+    "Semantic-Typography/Base",
+    "Size-Component/sm",
+    "Size-Component/md",
+    "Size-Component/lg",
+    "Size-Component/main"
+  ]
+}
