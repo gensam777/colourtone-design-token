@@ -1,5 +1,5 @@
 {
-  "Primitive/Base": {
+  "Primitive": {
     "color": {
       "grey": {
         "50": {
@@ -973,7 +973,7 @@
       }
     }
   },
-  "Primitive-Layout-breakpoint/Base": {
+  "Primitive-Layout-breakpoint": {
     "grid": {
       "cols": {
         "1": {
@@ -5225,8 +5225,8 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "Primitive/Base",
-      "Primitive-Layout-breakpoint/Base",
+      "Primitive",
+      "Primitive-Layout-breakpoint",
       "Primitive-UI-Component/Base",
       "Alias-Base Colour/Base",
       "Alias-Viewport/Mobile",
