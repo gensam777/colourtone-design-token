@@ -4,7 +4,7 @@
   Do not edit directly, this file was auto-generated.
 -->
 <resources>
-  <color name="color_grey_50">#fff7f7f7</color>
+  <color name="color_grey_50">#ff000000</color>
   <color name="color_grey_100">#ffe6e6e6</color>
   <color name="color_grey_200">#ffd0d0d0</color>
   <color name="color_grey_300">#ffbababa</color>
@@ -97,11 +97,11 @@
   <color name="color_brand_a_red_700">#ff6c6c6c</color>
   <color name="color_brand_a_red_800">#ff545454</color>
   <color name="color_brand_a_red_900">#ff404040</color>
-  <color name="semantic_text_default_title">#fff7f7f7</color>
-  <color name="semantic_text_default_body">#fff7f7f7</color>
+  <color name="semantic_text_default_title">#ff000000</color>
+  <color name="semantic_text_default_body">#ff000000</color>
   <color name="semantic_text_default_subtitle">#ff989898</color>
   <color name="semantic_text_default_caption">#ffadadad</color>
-  <color name="semantic_text_default_white">#fff7f7f7</color>
+  <color name="semantic_text_default_white">#ff000000</color>
   <color name="semantic_text_default_secondary">#ff0f3c68</color>
   <color name="semantic_text_default_label">#ffbababa</color>
   <color name="semantic_text_default_header">#ffd4bc94</color>
@@ -228,7 +228,7 @@
   <color name="component_slider_background">#ff0f3c68</color>
   <color name="component_slider_progress">#ffd4bc94</color>
   <color name="component_slider_control">#ffd4bc94</color>
-  <color name="component_tab_pill_active_text">#fff7f7f7</color>
+  <color name="component_tab_pill_active_text">#ff000000</color>
   <color name="component_tab_pill_active_background">#ff594f3e</color>
   <color name="component_bottom_sheet_background">#ff0c2f50</color>
   <color name="component_bottom_sheet_handle">#4dffffff</color>
