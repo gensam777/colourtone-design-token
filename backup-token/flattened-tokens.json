@@ -1084,7 +1084,14 @@
         "type": "dimension"
       }
     },
-    
+    "margin": {
+      "value": "{grid.margin.32}",
+      "type": "dimension"
+    },
+    "gutter": {
+      "value": "{grid.gutter.16}",
+      "type": "dimension"
+    },
     "offset": {
       "16": {
         "value": "16px",

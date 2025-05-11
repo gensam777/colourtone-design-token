@@ -20,6 +20,17 @@
           "format": "android/colors"
         }
       ]
+    },
+    "ios": {
+      "transformGroup": "android",
+      "buildPath": "build/ios/",
+      "files": [
+        {
+          "destination": "StyleDictionaryColor.h",
+          "format": "ios/colors.h"
+        }
+      ]
     }
+    
   }
 }
