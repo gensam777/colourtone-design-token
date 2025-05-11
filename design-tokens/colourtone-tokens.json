@@ -3,7 +3,7 @@
     "color": {
       "grey": {
         "50": {
-          "value": "#f7f7f7",
+          "value": "#f80000",
           "type": "color"
         },
         "100": {
@@ -4481,12 +4481,10 @@
         "value": "{grid.width.43}",
         "type": "dimension"
       },
-      
       "offset-center": {
         "value": "{grid.offset.24}",
         "type": "dimension"
       },
-      
       "count": {
         "value": "{grid.cols.24}",
         "type": "dimension"
