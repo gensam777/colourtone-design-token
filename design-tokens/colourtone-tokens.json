@@ -4759,7 +4759,7 @@
         "primary": {
           "default": {
             "background": {
-              "value": "{color.primary.500}",
+              "value": "{color.error.error-500}",
               "type": "color"
             },
             "border": {
