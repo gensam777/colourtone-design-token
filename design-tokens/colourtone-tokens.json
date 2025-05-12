@@ -1375,7 +1375,7 @@
     "typography": {
       "family": {
         "primary": {
-          "value": "Editor's Note",
+          "value": "Editors Note",
           "type": "text"
         },
         "secondary": {

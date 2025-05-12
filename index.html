@@ -1,12 +1,35 @@
 <html>
 
     <head>
-
+        <link rel="stylesheet" href="build/css/_variables.css">
     </head>
 
     <body>
+        <style>
+            button {
+                display: inline-flex;
+                height: var(--base-container, 52px);
+                padding: 0px var(--button-container-padding-h-wide, 24px);
+                justify-content: center;
+                align-items: center;
+                gap: 8px;
+                flex-shrink: 0;
+                border: none;
+                border-radius: var(--border-radius-sm, 8px);
+                background: var(--component-button-primary-default-background);
+                color: var(--color-shades-black, #2D2518);
+
+                /* Label/Large/Bold */
+                font-family: "Essential Sans";
+                font-size: var(--button-text-size, 16px);
+                font-style: normal;
+                font-weight: 700;
+                line-height: 20px; /* 125% */
+            }
+        </style>
+
         <button>
-            Button
+            Button field
         </button>
     </body>
 

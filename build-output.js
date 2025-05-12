@@ -14,12 +14,12 @@ const sd = new StyleDictionary({
   preprocessors: ['tokens-studio'], // <-- since 0.16.0 this must be explicit
   platforms: {
     "scss": {
-      "transformGroup": "scss",
-      "buildPath": "build/scss/",
+      "transformGroup": "css",
+      "buildPath": "build/css/",
       "files": [
         {
-          "destination": "_variables.scss",
-          "format": "scss/variables"
+          "destination": "_variables.css",
+          "format": "css/variables"
         }
       ]
     },
