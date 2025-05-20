@@ -244,7 +244,7 @@
   <color name="component_segmented_picker_background">#ff09243d</color>
   <color name="component_segmented_picker_active">#ff155592</color>
   <color name="component_font_presets_background">#ff09243d</color>
-  <color name="component_button_primary_default_background">#ffd4bc94</color>
+  <color name="component_button_primary_default_background">#ffef4444</color>
   <color name="component_button_primary_default_border">#ffffffff</color>
   <color name="component_button_primary_default_text">#ff2d2518</color>
   <color name="component_button_primary_hovered_background">#ffc1ab87</color>
