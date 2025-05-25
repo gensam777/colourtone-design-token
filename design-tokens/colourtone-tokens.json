@@ -1375,7 +1375,7 @@
     "typography": {
       "family": {
         "primary": {
-          "value": "Editors Note",
+          "value": "Editor's Note",
           "type": "text"
         },
         "secondary": {
@@ -3048,7 +3048,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{color.primary.500}",
+            "value": "{color.error.error-500}",
             "type": "color"
           },
           "default-hover": {
@@ -4679,7 +4679,7 @@
           "type": "color"
         }
       },
-      "button": {       
+      "button": {
         "background": {
           "primary": {
             "default": {
@@ -6347,6 +6347,14 @@
       "container-padding-h-wide": {
         "value": "{container.spacing.12}",
         "type": "dimension"
+      },
+      "container-padding-horizontal": {
+        "value": "{container.spacing.12}",
+        "type": "dimension"
+      },
+      "container-padding-vertical": {
+        "value": "{container.spacing.12}",
+        "type": "dimension"
       }
     }
   },
@@ -6387,6 +6395,14 @@
         "type": "dimension"
       },
       "container-padding-h-wide": {
+        "value": "{container.spacing.16}",
+        "type": "dimension"
+      },
+      "container-padding-horizontal": {
+        "value": "{container.spacing.16}",
+        "type": "dimension"
+      },
+      "container-padding-vertical": {
         "value": "{container.spacing.16}",
         "type": "dimension"
       }
@@ -6431,6 +6447,14 @@
       "container-padding-h-wide": {
         "value": "{container.spacing.20}",
         "type": "dimension"
+      },
+      "container-padding-horizontal": {
+        "value": "{container.spacing.20}",
+        "type": "dimension"
+      },
+      "container-padding-vertical": {
+        "value": "{container.spacing.20}",
+        "type": "dimension"
       }
     }
   },
@@ -6471,6 +6495,14 @@
         "type": "dimension"
       },
       "container-padding-h-wide": {
+        "value": "{container.spacing.24}",
+        "type": "dimension"
+      },
+      "container-padding-horizontal": {
+        "value": "{container.spacing.24}",
+        "type": "dimension"
+      },
+      "container-padding-vertical": {
         "value": "{container.spacing.24}",
         "type": "dimension"
       }
