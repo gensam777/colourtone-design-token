@@ -3048,7 +3048,7 @@
             "type": "color"
           },
           "default": {
-            "value": "{color.primary.500}",
+            "value": "{color.error.error-500}",
             "type": "color"
           },
           "default-hover": {
